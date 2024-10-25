@@ -7,11 +7,10 @@
 </p>
 
 <p align="center">
-- 🔭 I’m currently working on <a href="https://styletransfer.ru/">Style Transfer</a>
+- 🔭 I’m currently working on <a href="https://kallosus.ru/">Kallosus</a>
 <br/>
 - 📫 How to reach me <b>pikromat1995@gmail.com</b>
 </p>
-
   
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
