@@ -82,10 +82,6 @@ My **48 merged external contributions** include:
   <img width="48%" src="https://streak-stats.demolab.com?user=Neizvestnyj&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neizvestnyj&theme=tokyonight&name=Neizvestnyj" alt="GitHub contribution activity over the last year" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neizvestnyj/Neizvestnyj/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Neizvestnyj/Neizvestnyj/output/github-contribution-grid-snake.svg" />
