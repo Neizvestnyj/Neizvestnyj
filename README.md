@@ -46,6 +46,9 @@ organizes collections, and provides personalized recommendations.
   <a href="https://github.com/Neizvestnyj/FlexiLogger">
     <img width="48%" src="https://github-stats-extended.vercel.app/api/pin?username=Neizvestnyj&repo=FlexiLogger&theme=tokyonight&hide_border=true" alt="FlexiLogger" />
   </a>
+  <a href="https://github.com/Neizvestnyj/DockSight">
+    <img width="48%" src="https://github-stats-extended.vercel.app/api/pin?username=Neizvestnyj&repo=DockSight&theme=tokyonight&hide_border=true" alt="DockSight" />
+  </a>
 </p>
 
 ## ✨ Open source
@@ -80,7 +83,7 @@ My **48 merged external contributions** include:
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Neizvestnyj&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neizvestnyj&theme=tokyonight&name=Neizvestnyj" alt="GitHub contribution activity over the last year" />
 </p>
 
 <picture>
